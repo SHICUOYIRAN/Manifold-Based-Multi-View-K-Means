@@ -1,4 +1,4 @@
-@ARTICLE{SSEC,
+@ARTICLE{CMKOA,
 
   author={Gao, Quanxue and Li, Fangfang and Wang, Qianqian and Gao, Xinbo and Tao, Dacheng},
   
